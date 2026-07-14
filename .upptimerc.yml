@@ -11,7 +11,7 @@ sites:
 
 status-website:
   cname: status.flexurl.link
-  logoUrl: https://img.drayko.xyz/flexurl-logo.png
+  logoUrl: https://img.drayko.xyz/flexurl-logo.svg
   name: FlexURL
   favicon: https://img.drayko.xyz/flexurl-favicon.png
   faviconSvg: https://img.drayko.xyz/flexurl-favicon.svg
